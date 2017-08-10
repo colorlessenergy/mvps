@@ -4,8 +4,8 @@ title = "Contact"
 url = "/contact"
 +++
 
-## contact
+# contact
 
-# call for any information
+## call for any information
 
 (562) 494-3555
