@@ -4,13 +4,8 @@ title = "Contact"
 url = "/contact"
 +++
 
-## Please fill out the form below
+## contact
 
-Let us know when you'd like to book a reservation and we'll contact you within 30 min to confirm or find another time.
+# call for any information
 
-<form name="contact" netlify>
-  <input type="text" placeholder="Your Name" name="name">
-  <input type="email" placeholder="Your Email" name="email">
-  <textarea name="message" placeholder="When would you like to book a reservation?"></textarea>
-  <button>Send</button>
-</form>
+(562) 494-3555
