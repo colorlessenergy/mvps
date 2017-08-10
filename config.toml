@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://colorlessenergy.github.io/mvps/"
 languageCode = "en-us"
 title = "MVPS"
 publishDir = "docs"
