@@ -52,7 +52,7 @@
   {{ else if eq .Section "gallery" }}
     <div class="gallery-carousel">
       {{ range where .Pages "Section" "gallery" }}
-        <div><img src="{{ .Params.image }}"/></div>
+        <div><img src="{{ .Site.BaseURL }}{{ .Params.image }}"/></div>
       {{ end }}
     </div>
     <div class="buttons">
